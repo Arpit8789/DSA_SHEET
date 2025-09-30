@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  min-height: 100vh;
+  margin: 0;
+  background: linear-gradient(135deg, #070c28 60%, #1d2332 100%);
+  color: #f5f5fa;
+  font-family: 'Inter', Arial, sans-serif;
+}
+input, button, select {
+  font-family: inherit;
+}
+::-webkit-scrollbar {
+  width: 8px;
+  background: #10121d;
+}
+::-webkit-scrollbar-thumb {
+  background: #253260;
+  border-radius: 5px;
+}
+a { transition: color 0.2s; }

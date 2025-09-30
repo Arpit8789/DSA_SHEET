@@ -1,0 +1,165 @@
+{
+  "sheetName": "Subham Sir Sheet",
+  "questions": [
+    {
+      "id": 1,
+      "title": "Codeforces 118A",
+      "link": "https://codeforces.com/problemset/problem/118A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "String,Implementation"
+    },
+    {
+      "id": 2,
+      "title": "Leetcode To Lower Case",
+      "link": "https://leetcode.com/problems/to-lower-case",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "String,Implementation"
+    },
+    {
+      "id": 3,
+      "title": "Codeforces 1660B",
+      "link": "https://codeforces.com/problemset/problem/1660B",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Math,Greedy"
+    },
+    {
+      "id": 4,
+      "title": "Codeforces 1841B",
+      "link": "https://codeforces.com/problemset/problem/1841B",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Greedy,Implementation"
+    },
+    {
+      "id": 5,
+      "title": "Codeforces 160A",
+      "link": "https://codeforces.com/problemset/problem/160A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Sorting,Greedy"
+    },
+    {
+      "id": 6,
+      "title": "Codeforces 1669B",
+      "link": "https://codeforces.com/problemset/problem/1669B",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Array,Implementation"
+    },
+    {
+      "id": 7,
+      "title": "Leetcode Kth Largest Element in an Array",
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Heap,Sorting"
+    },
+    {
+      "id": 8,
+      "title": "Codeforces 977A",
+      "link": "https://codeforces.com/problemset/problem/977A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Math,Implementation"
+    },
+    {
+      "id": 9,
+      "title": "Codeforces 155A",
+      "link": "https://codeforces.com/problemset/problem/155A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Array,Greedy"
+    },
+    {
+      "id": 10,
+      "title": "Leetcode Power of Two",
+      "link": "https://leetcode.com/problems/power-of-two",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Math,Bit Manipulation"
+    },
+    {
+      "id": 11,
+      "title": "Codeforces 1742C",
+      "link": "https://codeforces.com/problemset/problem/1742C",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Array,Implementation"
+    },
+    {
+      "id": 12,
+      "title": "Leetcode Subarray Sum Equals K",
+      "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Prefix sum,Hashmap"
+    },
+    {
+      "id": 13,
+      "title": "Leetcode Rotate Array",
+      "link": "https://leetcode.com/problems/rotate-array",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Array,Two Pointers"
+    },
+    {
+      "id": 14,
+      "title": "Codeforces 1498A",
+      "link": "https://codeforces.com/problemset/problem/1498A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Math,Number Theory"
+    },
+    {
+      "id": 15,
+      "title": "Codeforces 617A",
+      "link": "https://codeforces.com/problemset/problem/617A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Math,Implementation"
+    },
+    {
+      "id": 16,
+      "title": "Leetcode Two Sum II Input Array Is Sorted",
+      "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Two pointers,Array"
+    },
+    {
+      "id": 17,
+      "title": "Leetcode Spiral Matrix",
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Matrix,Simulation"
+    },
+    {
+      "id": 18,
+      "title": "Codeforces 1690C",
+      "link": "https://codeforces.com/problemset/problem/1690C",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Greedy,Implementation"
+    },
+    {
+      "id": 19,
+      "title": "Codeforces 1731A",
+      "link": "https://codeforces.com/problemset/problem/1731A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Math,Implementation"
+    },
+    {
+      "id": 20,
+      "title": "Leetcode Longest Substring Without Repeating Characters",
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Sliding Window,Hashmap"
+    }
+  ]
+}
