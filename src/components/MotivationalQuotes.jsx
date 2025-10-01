@@ -1,22 +1,30 @@
-
 import React from "react";
+
 export default function MotivationalQuotes() {
-  const quotes = [
-    "Har din DSA ki practice apni family ki life ko upgrade karne ka ek step hai...",
-    "Sapne bade dekho, tareeke dhoondho...",
-    "Ek din aayega jab tumhe apni coding journey ka fal milega...",
-    "Paise ki chinta mat karo, dimaag pe invest karo...",
-    "Bharosa rakho apne aap par, kyunki ek sahi skill hi sabse bada investment hai...",
-    "Jab mushkil lagti hai, socho ki yahi woh challenge hai...",
-    "DSA me everyday grind kal ko dream job aur financial freedom me badal sakta hai...",
-    "Coding seekh ke, sirf apni zindagi nahi, balki apne parents ka bhi sapna pura karo..."
-  ];
-  return (
-    <div className="bg-gradient-to-br from-pink-600 via-indigo-900 to-blue-700 rounded-2xl border-l-8 border-[#232543] shadow-xl p-7 flex flex-col gap-4 h-full justify-start">
-      <h2 className="text-2xl font-bold text-pink-100 text-center mb-2">Motivation Wall</h2>
-      {quotes.map((q, idx) => (
-        <div key={idx} className="text-[1rem] text-slate-100 italic font-semibold leading-snug">"{q}"</div>
-      ))}
-    </div>
-  );
+  const quotes = [
+    { text: "The only way to learn a new programming language is by writing programs in it.", author: "Dennis Ritchie" },
+    { text: "Code every day, because consistency beats talent when talent doesn’t work hard.", author: "Shubham Sir" },
+    { text: "First, solve the problem. Then, write the code.", author: "John Johnson" },
+    { text: "Dream big, but start small. Every DSA problem you solve is a step towards that dream job.", author: "Shuham sir" },
+    { text: "Don’t watch the clock; do what it does. Keep going.", author: "Sam Levenson" },
+    { text: "Learning to write programs stretches your mind, and helps you think better.", author: "Bill Gates" },
+    { text: "Success is the sum of small efforts, repeated day in and day out.", author: "Robert Collier" },
+    { text: "DSA practice is like gym for your brain — consistency builds strength.", author: "Shubham sir" },
+    { text: "Opportunities don’t happen, you create them.", author: "Chris Grosser" },
+    { text: "Do what you can, with what you have, where you are.", author: "Theodore Roosevelt" }
+  ];
+
+  return (
+    <div className="bg-gradient-to-br from-pink-600 via-indigo-900 to-blue-700 rounded-2xl border-l-8 border-[#232543] shadow-xl p-7 flex flex-col gap-4 h-full justify-start">
+      <h2 className="text-2xl font-bold text-pink-100 text-center mb-2">Motivation Wall</h2>
+      {quotes.map((q, idx) => (
+        <div
+          key={idx}
+          className="text-[1rem] text-slate-100 italic font-semibold leading-snug"
+        >
+          “{q.text}” <span className="text-pink-300 font-normal">— {q.author}</span>
+        </div>
+      ))}
+    </div>
+  );
 }
