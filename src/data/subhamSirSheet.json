@@ -3,163 +3,372 @@
   "questions": [
     {
       "id": 1,
-      "title": "Codeforces 118A",
+      "title": "Codeforces 118A - String Task",
       "link": "https://codeforces.com/problemset/problem/118A",
       "difficulty": "",
       "platform": "Codeforces",
-      "approach": "String,Implementation"
+      "approach": "String, Implementation"
     },
     {
       "id": 2,
-      "title": "Leetcode To Lower Case",
+      "title": "LeetCode 709 - To Lower Case",
       "link": "https://leetcode.com/problems/to-lower-case",
       "difficulty": "",
       "platform": "LeetCode",
-      "approach": "String,Implementation"
+      "approach": "String, Implementation"
     },
     {
       "id": 3,
-      "title": "Codeforces 1660B",
-      "link": "https://codeforces.com/problemset/problem/1660B",
+      "title": "Codeforces 1660B - Vlad and Candies",
+      "link": "https://codeforces.com/problemset/problem/1660/B",
       "difficulty": "",
       "platform": "Codeforces",
-      "approach": "Math,Greedy"
+      "approach": "Math, Greedy"
     },
     {
       "id": 4,
-      "title": "Codeforces 1841B",
-      "link": "https://codeforces.com/problemset/problem/1841B",
+      "title": "Codeforces 1841B - Keep it Beautiful",
+      "link": "https://codeforces.com/problemset/problem/1841/B",
       "difficulty": "",
       "platform": "Codeforces",
-      "approach": "Greedy,Implementation"
+      "approach": "Greedy, Implementation"
     },
     {
       "id": 5,
-      "title": "Codeforces 160A",
+      "title": "Codeforces 160A - Twins",
       "link": "https://codeforces.com/problemset/problem/160A",
       "difficulty": "",
       "platform": "Codeforces",
-      "approach": "Sorting,Greedy"
+      "approach": "Sorting, Greedy"
     },
     {
       "id": 6,
-      "title": "Codeforces 1669B",
-      "link": "https://codeforces.com/problemset/problem/1669B",
+      "title": "Codeforces 1669B - Triple",
+      "link": "https://codeforces.com/problemset/problem/1669/B",
       "difficulty": "",
       "platform": "Codeforces",
-      "approach": "Array,Implementation"
+      "approach": "Array, Implementation"
     },
     {
       "id": 7,
-      "title": "Leetcode Kth Largest Element in an Array",
+      "title": "LeetCode 215 - Kth Largest Element in an Array",
       "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
       "difficulty": "",
       "platform": "LeetCode",
-      "approach": "Heap,Sorting"
+      "approach": "Heap, Sorting"
     },
     {
       "id": 8,
-      "title": "Codeforces 977A",
-      "link": "https://codeforces.com/problemset/problem/977A",
+      "title": "Codeforces 977A - Wrong Subtraction",
+      "link": "https://codeforces.com/problemset/problem/977/A",
       "difficulty": "",
       "platform": "Codeforces",
-      "approach": "Math,Implementation"
+      "approach": "Math, Implementation"
     },
     {
       "id": 9,
-      "title": "Codeforces 155A",
-      "link": "https://codeforces.com/problemset/problem/155A",
+      "title": "Codeforces 155A - I_love_%username%",
+      "link": "https://codeforces.com/problemset/problem/155/A",
       "difficulty": "",
       "platform": "Codeforces",
-      "approach": "Array,Greedy"
+      "approach": "Array, Greedy"
     },
     {
       "id": 10,
-      "title": "Leetcode Power of Two",
+      "title": "LeetCode 231 - Power of Two",
       "link": "https://leetcode.com/problems/power-of-two",
       "difficulty": "",
       "platform": "LeetCode",
-      "approach": "Math,Bit Manipulation"
+      "approach": "Math, Bit Manipulation"
     },
     {
       "id": 11,
-      "title": "Codeforces 1742C",
-      "link": "https://codeforces.com/problemset/problem/1742C",
+      "title": "Codeforces 1742C - Stripes",
+      "link": "https://codeforces.com/problemset/problem/1742/C",
       "difficulty": "",
       "platform": "Codeforces",
-      "approach": "Array,Implementation"
+      "approach": "Array, Implementation"
     },
     {
       "id": 12,
-      "title": "Leetcode Subarray Sum Equals K",
+      "title": "LeetCode 560 - Subarray Sum Equals K",
       "link": "https://leetcode.com/problems/subarray-sum-equals-k",
       "difficulty": "",
       "platform": "LeetCode",
-      "approach": "Prefix sum,Hashmap"
+      "approach": "Prefix Sum, Hashmap"
     },
     {
       "id": 13,
-      "title": "Leetcode Rotate Array",
+      "title": "LeetCode 189 - Rotate Array",
       "link": "https://leetcode.com/problems/rotate-array",
       "difficulty": "",
       "platform": "LeetCode",
-      "approach": "Array,Two Pointers"
+      "approach": "Array, Two Pointers"
     },
     {
       "id": 14,
-      "title": "Codeforces 1498A",
-      "link": "https://codeforces.com/problemset/problem/1498A",
+      "title": "Codeforces 1498A - GCD Sum",
+      "link": "https://codeforces.com/problemset/problem/1498/A",
       "difficulty": "",
       "platform": "Codeforces",
-      "approach": "Math,Number Theory"
+      "approach": "Math, Number Theory"
     },
     {
       "id": 15,
-      "title": "Codeforces 617A",
-      "link": "https://codeforces.com/problemset/problem/617A",
+      "title": "Codeforces 617A - Elephant",
+      "link": "https://codeforces.com/problemset/problem/617/A",
       "difficulty": "",
       "platform": "Codeforces",
-      "approach": "Math,Implementation"
+      "approach": "Math, Implementation"
     },
     {
       "id": 16,
-      "title": "Leetcode Two Sum II Input Array Is Sorted",
+      "title": "LeetCode 167 - Two Sum II - Input array is sorted",
       "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
       "difficulty": "",
       "platform": "LeetCode",
-      "approach": "Two pointers,Array"
+      "approach": "Two Pointers, Array"
     },
     {
       "id": 17,
-      "title": "Leetcode Spiral Matrix",
+      "title": "LeetCode 54 - Spiral Matrix",
       "link": "https://leetcode.com/problems/spiral-matrix",
       "difficulty": "",
       "platform": "LeetCode",
-      "approach": "Matrix,Simulation"
+      "approach": "Matrix, Simulation"
     },
     {
       "id": 18,
-      "title": "Codeforces 1690C",
-      "link": "https://codeforces.com/problemset/problem/1690C",
+      "title": "Codeforces 1690C - Restoring the Duration of Tasks",
+      "link": "https://codeforces.com/problemset/problem/1690/C",
       "difficulty": "",
       "platform": "Codeforces",
-      "approach": "Greedy,Implementation"
+      "approach": "Greedy, Implementation"
     },
     {
       "id": 19,
-      "title": "Codeforces 1731A",
-      "link": "https://codeforces.com/problemset/problem/1731A",
+      "title": "Codeforces 1731A - Joey Takes Money",
+      "link": "https://codeforces.com/problemset/problem/1731/A",
       "difficulty": "",
       "platform": "Codeforces",
-      "approach": "Math,Implementation"
+      "approach": "Math, Implementation"
     },
     {
       "id": 20,
-      "title": "Leetcode Longest Substring Without Repeating Characters",
+      "title": "LeetCode 3 - Longest Substring Without Repeating Characters",
       "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
       "difficulty": "",
       "platform": "LeetCode",
-      "approach": "Sliding Window,Hashmap"
+      "approach": "Sliding Window, Hashmap"
+    },
+    {
+      "id": 21,
+      "title": "Codeforces 1462B - Last Year's Substring",
+      "link": "https://codeforces.com/problemset/problem/1462/B",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "String, Implementation"
+    },
+    {
+      "id": 22,
+      "title": "Codeforces 1704A - Two 0-1 Sequences",
+      "link": "https://codeforces.com/problemset/problem/1704/A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "String, Greedy"
+    },
+    {
+      "id": 23,
+      "title": "LeetCode 19 - Remove Nth Node From End of List",
+      "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Linked List, Two Pointers"
+    },
+    {
+      "id": 24,
+      "title": "Codeforces 350A - TL",
+      "link": "https://codeforces.com/problemset/problem/350/A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Math, Greedy"
+    },
+    {
+      "id": 25,
+      "title": "Codeforces 1155A - Reverse a Substring",
+      "link": "https://codeforces.com/problemset/problem/1155/A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "String, Implementation"
+    },
+    {
+      "id": 26,
+      "title": "LeetCode 23 - Merge k Sorted Lists",
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Linked List, Heap"
+    },
+    {
+      "id": 27,
+      "title": "LeetCode 21 - Merge Two Sorted Lists",
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Linked List, Recursion"
+    },
+    {
+      "id": 28,
+      "title": "Codeforces 455A - Boredom",
+      "link": "https://codeforces.com/problemset/problem/455/A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "DP"
+    },
+    {
+      "id": 29,
+      "title": "Codeforces 1497B - M-arrays",
+      "link": "https://codeforces.com/problemset/problem/1497/B",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Math, Greedy"
+    },
+    {
+      "id": 30,
+      "title": "LeetCode 84 - Largest Rectangle in Histogram",
+      "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Stack, Array"
+    },
+    {
+      "id": 31,
+      "title": "Codeforces 1354A - Alarm Clock",
+      "link": "https://codeforces.com/problemset/problem/1354/A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Math, Implementation"
+    },
+    {
+      "id": 32,
+      "title": "Codeforces 1690B - Array Decrements",
+      "link": "https://codeforces.com/problemset/problem/1690/B",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Array, Greedy"
+    },
+    {
+      "id": 33,
+      "title": "LeetCode 239 - Sliding Window Maximum",
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Deque, Sliding Window"
+    },
+    {
+      "id": 34,
+      "title": "Codeforces 1418A - Buying Torches",
+      "link": "https://codeforces.com/problemset/problem/1418/A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Math, Greedy"
+    },
+    {
+      "id": 35,
+      "title": "Codeforces 1454B - Unique Bid Auction",
+      "link": "https://codeforces.com/problemset/problem/1454/B",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Array, Implementation"
+    },
+    {
+      "id": 36,
+      "title": "LeetCode 347 - Top K Frequent Elements",
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Hashmap, Heap"
+    },
+    {
+      "id": 37,
+      "title": "Codeforces 1709B - Also Try Minecraft",
+      "link": "https://codeforces.com/problemset/problem/1709/B",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Prefix Sum"
+    },
+    {
+      "id": 38,
+      "title": "LeetCode 56 - Merge Intervals",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Sorting, Array"
+    },
+    {
+      "id": 39,
+      "title": "Codeforces 1490C - Sum of Cubes",
+      "link": "https://codeforces.com/problemset/problem/1490/C",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Math, Two Pointers"
+    },
+    {
+      "id": 40,
+      "title": "Codeforces 1296C - Yet Another Walking Robot",
+      "link": "https://codeforces.com/problemset/problem/1296/C",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "Hashmap, String"
+    },
+    {
+      "id": 41,
+      "title": "LeetCode 704 - Binary Search",
+      "link": "https://leetcode.com/problems/binary-search",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Binary Search, Array"
+    },
+    {
+      "id": 42,
+      "title": "Codeforces 1201A - Important Exam",
+      "link": "https://codeforces.com/problemset/problem/1201/A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "String, Implementation"
+    },
+    {
+      "id": 43,
+      "title": "Codeforces 1891B - Deletive Editing",
+      "link": "https://codeforces.com/problemset/problem/1891/B",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "String, Greedy"
+    },
+    {
+      "id": 44,
+      "title": "LeetCode 1011 - Capacity To Ship Packages Within D Days",
+      "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+      "difficulty": "",
+      "platform": "LeetCode",
+      "approach": "Binary Search, Greedy"
+    },
+    {
+      "id": 45,
+      "title": "Codeforces 1201A - Important Exam",
+      "link": "https://codeforces.com/problemset/problem/1201/A",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "String, Implementation"
+    },
+    {
+      "id": 46,
+      "title": "Codeforces 1891B - Deletive Editing",
+      "link": "https://codeforces.com/problemset/problem/1891/B",
+      "difficulty": "",
+      "platform": "Codeforces",
+      "approach": "String, Greedy"
     }
+
   ]
 }
