@@ -4,8 +4,10 @@ import Home from "./pages/Home";
 import SheetView from "./pages/SheetView";
 import subhamSirSheet from "./data/subhamSirSheet.json";
 import recursionPractice from "./data/recursionPractice.json";
-import useLocalStorage from "./hooks/useLocalStorage";
+import useLocalStorage, { useVersionedSheetStorage } from "./hooks/useLocalStorage";
 import useProgress from "./hooks/useProgress";
+
+const PRELOADED_VERSION = 4; // bump this any time the questions in subhamSirSheet.json changes
 
 function getPreloadedSheets() {
   return [
@@ -25,12 +27,15 @@ function getPreloadedSheets() {
 }
 
 function App() {
-  const [sheets, setSheets] = useLocalStorage("dsa_sheets", getPreloadedSheets());
-  const [selectedSheetId, setSelectedSheetId] = useState(sheets[0].id);
-  // progressObj: { [sheetId]: { ...progress } }
+  const [sheets, setSheets] = useVersionedSheetStorage(
+    "dsa_sheets",
+    getPreloadedSheets(),
+    PRELOADED_VERSION
+  );
+  // Progress stays user-only, untouched on sheet update
   const [progressObj, setProgressObj] = useLocalStorage("dsa_progress", {});
+  const [selectedSheetId, setSelectedSheetId] = useState(sheets[0].id);
 
-  // For Home, only stats for currently selected sheet
   const selectedSheet = sheets.find(s => s.id === selectedSheetId);
   const homeProgress = progressObj[selectedSheetId] || {};
   const stats = useProgress(selectedSheet?.questions || [], homeProgress);
