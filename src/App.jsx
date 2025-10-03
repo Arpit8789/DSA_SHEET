@@ -7,7 +7,7 @@ import recursionPractice from "./data/recursionPractice.json";
 import useLocalStorage, { useVersionedSheetStorage } from "./hooks/useLocalStorage";
 import useProgress from "./hooks/useProgress";
 
-const PRELOADED_VERSION = 5; // bump this any time the questions in subhamSirSheet.json changes
+const PRELOADED_VERSION = 6; // bump this any time the questions in subhamSirSheet.json changes
 
 function getPreloadedSheets() {
   return [

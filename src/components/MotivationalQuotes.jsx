@@ -11,7 +11,7 @@ export default function MotivationalQuotes() {
     { text: "Success is the sum of small efforts, repeated day in and day out.", author: "Robert Collier" },
     { text: "DSA practice is like gym for your brain — consistency builds strength.", author: "Shubham Sir" },
     { text: "Opportunities don’t happen, you create them.", author: "Chris Grosser" },
-    { text: "Do what you can, with what you have, where you are.", author: "Theodore Roosevelt" }
+    { text: "Don't do development, Do DSA - if you want job", author: "Arpit Anand" }
   ];
 
   return (
